@@ -41,7 +41,7 @@ Installation
 
  Comment utiliser l’application
 
-- Ajouter une tâche : Tapez votre tâche et sa date, puis cliquez sur "Ajouter".
+- Ajouter une tâche : Tapez votre tâche et sa date, puis cliquez sur "+".
 - Modifier une tâche: Cliquez sur l’icône en forme de crayon pour changer le texte de la tâche.
 - Supprimer une tâche : Cliquez sur l’icône de poubelle pour retirer une tâche de la liste.
 - Filtrer les tâches : En haut, utilisez les boutons pour voir toutes les tâches, seulement les tâches actives ou seulement les tâches terminées.
